@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/24915167/113630275-f440f000-963d-11eb-84ae-1b252599fc3a.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
+<img src="https://camo.githubusercontent.com/c5a472600361aef03d940d262f424b49c376f66fc1ff867fba79dc0184f5d577/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f616e67756c61722d69636f6e2e737667" alt="Angular" height="40" style="vertical-align:top; margin:4px">
 
 https://user-images.githubusercontent.com
 
