@@ -1,4 +1,6 @@
-### Hi there 👋, I`m Jesus Maria Aranda >> Software Engineer > Frontend Developer at MercadoLibre >> into React & Node.js
+# Hi there 👋, I´m Jesus Maria Aranda  👨‍💻
+
+## Software Engineer >> Frontend Developer at MercadoLibre >> into React & Node.js
 
 <!--
 **arandajm/arandajm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
