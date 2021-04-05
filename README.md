@@ -1,4 +1,4 @@
-### Hi there 👋, I`m Jesus Maria Aranda 
+### Hi there 👋, I`m Jesus Maria Aranda >> Software Engineer > Frontend Developer at MercadoLibre >> into React & Node.js
 
 <!--
 **arandajm/arandajm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 </p>
 
 <br />
-
-https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png
 
 ## 🧰 Languages and Tools:
 <p align="center">  
@@ -56,5 +54,7 @@ https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.pn
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667"><img src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/swagger.svg" style="max-width:100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e34e04eeeced316c268974bb91c5a9231ca5ec3135aa1050de23bbfb2a1ac298/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6176656e2e737667"><img src="https://camo.githubusercontent.com/e34e04eeeced316c268974bb91c5a9231ca5ec3135aa1050de23bbfb2a1ac298/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6176656e2e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/maven.svg" style="max-width:100%;"></a>
 </div>
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arandajm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
