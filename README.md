@@ -6,13 +6,13 @@
 ### Talking about Personal Stuffs:
 
 - 🚀 &nbsp; I’m a Frontend Software Engineer at Mercado Libre.
-- 🛠 &nbsp; I’m currently working with React, Javascript, Typescriot, Nodejs, Express,  etc.
+- 🛠 &nbsp; I’m currently working with React, Javascript, Typescript, Nodejs, Express,  etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/arandajm).
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Doing sports & riding a bike 💪.
+- 🏞️ &nbsp; Doing sports & riding my bike 💪.
 
 ### Technologies
 
