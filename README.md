@@ -1,70 +1,27 @@
 # Hi there 👋, I´m Jesus Maria Aranda  👨‍💻
 
-## Software Engineer >> Frontend Developer at MercadoLibre >> into React & Node.js
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aranda-jm/)](https://www.linkedin.com/in/aranda-jm/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jesus.maria.aranda@gmail.com)](mailto:jesus.maria.aranda@gmail.com)
 
-<!--
-**arandajm/arandajm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Talking about Personal Stuffs:
 
-Here are some ideas to get you started:
+- 🚀 &nbsp; I’m a Frontend Software Engineer at Mercado Libre.
+- 🛠 &nbsp; I’m currently working with React, Javascript, Typescriot, Nodejs, Express,  etc.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/arandajm).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Absolute Favorites:
 
-## ✉️ Find me on:
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Doing sports & riding a bike 💪.
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
-
-
-<br />
-
-## 🧰 Languages and Tools:
-<p align="center">  
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0c6adf0b34772f192a1c98b80ca013f2d69e954738b20062a114d9bbd245aab5/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176617363726970742e737667"><img src="https://camo.githubusercontent.com/0c6adf0b34772f192a1c98b80ca013f2d69e954738b20062a114d9bbd245aab5/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176617363726970742e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/javascript.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0bb402939edb9c333066f4d8c36448ad145d5b0afa1b388b871140235f501359/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f747970657363726970742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/0bb402939edb9c333066f4d8c36448ad145d5b0afa1b388b871140235f501359/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f747970657363726970742d69636f6e2e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/typescript-icon.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/258e4f46e082ec3dcfa3c4a90970a3d69d992c78c977ba7e0dd47b100a66f6f2/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656163742e737667"><img src="https://camo.githubusercontent.com/258e4f46e082ec3dcfa3c4a90970a3d69d992c78c977ba7e0dd47b100a66f6f2/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656163742e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/react.svg" style="max-width:100%;"></a>
-   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3bb4e08007aeb844bff964ccb7d928b237019cf9c83a37ac66f763cd01d8ce1a/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e6f64656a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/3bb4e08007aeb844bff964ccb7d928b237019cf9c83a37ac66f763cd01d8ce1a/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e6f64656a732d69636f6e2e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/nodejs-icon.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c5a472600361aef03d940d262f424b49c376f66fc1ff867fba79dc0184f5d577/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f616e67756c61722d69636f6e2e737667"><img src="https://camo.githubusercontent.com/c5a472600361aef03d940d262f424b49c376f66fc1ff867fba79dc0184f5d577/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f616e67756c61722d69636f6e2e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/angular-icon.svg" style="max-width:100%;"></a>
-   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2fcba7836008c09ac57d928bd0756215178d9aafc555ddb34eecd0b9653fbcb3/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f626162656c2e737667"><img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/babel.svg" style="max-width:100%;"></a> 
-   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2fcba7836008c09ac57d928bd0756215178d9aafc555ddb34eecd0b9653fbcb3/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f626162656c2e737667"><img src="https://camo.githubusercontent.com/2fcba7836008c09ac57d928bd0756215178d9aafc555ddb34eecd0b9653fbcb3/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f626162656c2e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/babel.svg" style="max-width:100%;"></a>
-   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e128a7ebc1defedc5413a9c76cbbcdc489b0f89fb009e6a5d661bdbede30d3bd/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6f6e676f64622e737667"><img src="https://camo.githubusercontent.com/e128a7ebc1defedc5413a9c76cbbcdc489b0f89fb009e6a5d661bdbede30d3bd/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6f6e676f64622e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/mongodb.svg" style="max-width:100%;"></a> 
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667"><img src="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/html-5.svg" style="max-width:100%;"></a>
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/367dd0be4d8a115eea884c2794dd1ab8751034782a4cf9f0d0c1155fd984a7d0/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667"><img src="https://camo.githubusercontent.com/367dd0be4d8a115eea884c2794dd1ab8751034782a4cf9f0d0c1155fd984a7d0/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/css-3.svg" style="max-width:100%;"></a>
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0984a2a03d3a8a3d4deb5769a2c44902d19abef9bf1f7c6db9d834a16efbb48b/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a656e6b696e732e737667"><img src="https://camo.githubusercontent.com/0984a2a03d3a8a3d4deb5769a2c44902d19abef9bf1f7c6db9d834a16efbb48b/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a656e6b696e732e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/jenkins.svg" style="max-width:100%;"></a>  
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0794037c301f4b831f915b590be46f240f39d499d6d3a69097c931dda0acf80f/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6972612e737667"><img src="https://camo.githubusercontent.com/0794037c301f4b831f915b590be46f240f39d499d6d3a69097c931dda0acf80f/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6972612e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/jira.svg" style="max-width:100%;"></a>  
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6b3fa9c81cf0e9ab62d8459f58cc160b2a458baa4411a26e5f7eaa9657e05bc5/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f706f73746d616e2e737667"><img src="https://camo.githubusercontent.com/6b3fa9c81cf0e9ab62d8459f58cc160b2a458baa4411a26e5f7eaa9657e05bc5/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f706f73746d616e2e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/postman.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/43f0abd518423f1704c3b85b4b71538f18a8a233ac940ecccef9e4a8893f4e95/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f736173732e737667"><img src="https://camo.githubusercontent.com/43f0abd518423f1704c3b85b4b71538f18a8a233ac940ecccef9e4a8893f4e95/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f736173732e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/sass.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/af486d9170c36d770475cb2626f0f6d869f4fbf1e6ea12b7cfd566a262283058/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e706d2e737667"><img src="https://camo.githubusercontent.com/af486d9170c36d770475cb2626f0f6d869f4fbf1e6ea12b7cfd566a262283058/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e706d2e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/npm.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1b6bcb75fd55036a4d54b2737259d4f8d3217e74917d86c2e5a6614eac6ff799/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e6f64656d6f6e2e737667"><img src="https://camo.githubusercontent.com/1b6bcb75fd55036a4d54b2737259d4f8d3217e74917d86c2e5a6614eac6ff799/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e6f64656d6f6e2e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/nodemon.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/git-icon.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bffb4bdbf5fef80832f16ae708b8743c0c5a1391cc0348b9f97a92851a0ab375/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f646f636b65722d69636f6e2e737667"><img src="https://camo.githubusercontent.com/bffb4bdbf5fef80832f16ae708b8743c0c5a1391cc0348b9f97a92851a0ab375/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f646f636b65722d69636f6e2e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/docker-icon.svg" style="max-width:100%;"></a>  
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/13dab343af62a5dbed682724bf0985e6b5261a23d0be14c9015d43405daa2f6b/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6177732e737667"><img src="https://camo.githubusercontent.com/13dab343af62a5dbed682724bf0985e6b5261a23d0be14c9015d43405daa2f6b/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6177732e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/aws.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3f561621200c809ef1a6047b0539b47124a15ed75d374536846af8ad4c04b50c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f6f676c652d636c6f75642e737667"><img src="https://camo.githubusercontent.com/3f561621200c809ef1a6047b0539b47124a15ed75d374536846af8ad4c04b50c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f6f676c652d636c6f75642e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/google-cloud.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/25d520c2a6b1982104ced9b0cc3d72a0c9eaaba575ef4d3b87a00b1725c91bd7/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f736c61636b2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/25d520c2a6b1982104ced9b0cc3d72a0c9eaaba575ef4d3b87a00b1725c91bd7/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f736c61636b2d69636f6e2e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/slack-icon.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2bb57a10ed33316891dd8b897506661383ec08ec23fdfddb321c47b1199a834e/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f70726f746163746f722e737667"><img src="https://camo.githubusercontent.com/2bb57a10ed33316891dd8b897506661383ec08ec23fdfddb321c47b1199a834e/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f70726f746163746f722e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/protactor.svg" style="max-width:100%;"></a>
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0eb9967c255e62ed94ab84b813bb2359a047865026c482bdcb3f6eb215699119/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176612e737667"><img src="https://camo.githubusercontent.com/0eb9967c255e62ed94ab84b813bb2359a047865026c482bdcb3f6eb215699119/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176612e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/java.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/49ba0b38a29b3986fb8db24be7d379c47587f6b84bd3be5b9b79f4dcb89a793a/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737072696e672d69636f6e2e737667"><img src="https://camo.githubusercontent.com/49ba0b38a29b3986fb8db24be7d379c47587f6b84bd3be5b9b79f4dcb89a793a/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737072696e672d69636f6e2e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/spring-icon.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667"><img src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/swagger.svg" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e34e04eeeced316c268974bb91c5a9231ca5ec3135aa1050de23bbfb2a1ac298/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6176656e2e737667"><img src="https://camo.githubusercontent.com/e34e04eeeced316c268974bb91c5a9231ca5ec3135aa1050de23bbfb2a1ac298/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6176656e2e737667" width="30px" height="30px" hspace="5" data-canonical-src="https://cdn.svgporn.com/logos/maven.svg" style="max-width:100%;"></a>
-</div>
-
-## ⚡ Technologies
+### Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -72,8 +29,8 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arandajm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
