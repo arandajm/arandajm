@@ -5,7 +5,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 🚀 &nbsp; I’m a Frontend Software Engineer at Mercado Libre.
+- 🚀 &nbsp; I’m a Frontend Software Engineer at [Mercado Libre](https://github.com/mercadolibre).
 - 🛠 &nbsp; I’m currently working with React, Javascript, Typescript, Nodejs, Express,  etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/arandajm).
 
